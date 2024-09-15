@@ -1,0 +1,16 @@
+{
+    "name": "com.pongoriangames.pongolibrary",
+    "version": "1.0.0",
+    "displayName": "Pongo Library",
+    "description": "A useful library for pongoriangames Unity projects.",
+    "unity": "2023.2",
+    "keywords": [
+      "utility",
+      "example"
+    ],
+    "author": {
+      "name": "Pongo",
+      "email": "pongoriangames@gmail.com",
+      "url": "https://github.com/pongogg/PongoLibrary.git"
+    }
+  }
